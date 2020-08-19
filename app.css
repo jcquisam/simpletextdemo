@@ -1,9 +1,17 @@
 h1 {
+<<<<<<< HEAD
 	background-color: blue;
+=======
+	background-color: pink;
+>>>>>>> pink-bg
 	color: red;
 	display: flex;
 	justify-content: center;
 	align-items: center;
 	height: 100vh;
+<<<<<<< HEAD
 	font-size: 6rem;
+=======
+	font-size: 10rem;
+>>>>>>> pink-bg
 }
